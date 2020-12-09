@@ -1,7 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.css";
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-body {
-	font-family: 'Roboto', sans-serif;
+
+.container,
+.container-fluid {
+  padding: 0px;
 }
 
 .course-category {
@@ -45,4 +46,17 @@ body {
 	padding: 0.5rem 2rem;
 	border-radius: 0px;
 	border: 3px solid black;
+}
+
+.logo-first {
+	width: 5rem;
+}
+
+.logo-second {
+	width: 7rem;
+}
+
+.logo-third {
+  padding-top:0.5rem ;
+	width: 10rem;
 }
