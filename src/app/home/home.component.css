@@ -5,6 +5,17 @@
   padding: 0px;
 }
 
+.card-img-overlay {
+  padding: 0px;
+}
+
+.card-bg {
+  background: #160D38;
+  max-width: 40%;
+  height: 100%;
+  border-radius: 0 0 290px 0;
+}
+
 .course-category {
 	padding: 2rem 0rem 0.5rem 0rem;
 }
@@ -59,4 +70,14 @@
 .logo-third {
   padding-top:0.5rem ;
 	width: 10rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .card-title {
+    font-size: 1.5rem;
+  }
+
+  .card-text {
+    font-size: 0.8rem;
+  }
 }
