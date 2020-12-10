@@ -1,0 +1,17 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.content {
+  display: flex;
+}
+
+video {
+  width: 115%;
+  height: 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  video {
+    width: 100%;
+    height: 100%;
+  }
+}
