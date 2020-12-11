@@ -2,6 +2,8 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { CourseContentComponent } from './course-content/course-content.component';
 import { HomeComponent } from './home/home.component';
+import { RegisterInstructorComponent } from './register-instructor/register-instructor.component';
+import { RegisterUserComponent } from './register-user/register-user.component';
 import { ResetPasswordComponent } from './reset-password/reset-password.component';
 
 const routes: Routes = [
@@ -16,7 +18,8 @@ const routes: Routes = [
 
   { path: 'reset-password',
     component: ResetPasswordComponent},
-];
+
+  ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
