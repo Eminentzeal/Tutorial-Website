@@ -1,0 +1,43 @@
+.jumbotron {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 20rem;
+    background-color: #160d38;
+    color: white;
+    padding: 2%;
+}
+
+.copyright{
+    font-size: 11px;
+}
+
+.logo {
+margin-left: 2rem;
+}
+
+.grid {
+    display: grid;
+}
+
+.follow {
+    font-size: 12px;
+    border-left:2px solid bisque ;
+    height: 40px;
+}
+
+.address{
+    float: left;
+    font-size: 11px;
+    
+}
+
+.footer{
+    display: grid;
+    grid-gap:2rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.fota {
+    margin-left: 25rem;
+}
+

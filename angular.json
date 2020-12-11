@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "Tutorial-Website"
+  "defaultProject": "Tutorial-Website",
+  "cli": {
+    "analytics": false
+  }
 }

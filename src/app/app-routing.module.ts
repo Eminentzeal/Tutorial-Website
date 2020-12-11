@@ -48,12 +48,16 @@ const routes: Routes = [
   { path: 'reset-password',
     component: ResetPasswordComponent},
 
+<<<<<<< HEAD
   { path: 'super-admin',
     component:SuperAdminComponent},
 
   { path: 'user-profile',
     component: UserProfileComponent},
 ];
+=======
+  ];
+>>>>>>> 5d3033a83cc123a77f7f2e99afac4fbf61f1b5d1
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

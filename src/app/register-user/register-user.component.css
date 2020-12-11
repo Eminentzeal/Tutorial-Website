@@ -1,0 +1,235 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.register {
+  position: absolute;
+  width: 288px;
+  height: 36px;
+  left: 593px;
+  top: 123px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  text-align: center;
+}
+
+.borderline {
+  position: absolute;
+  width: 385px;
+  height: 0px;
+  left: 530px;
+  top: 163px;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.google {
+  position: absolute;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 37px;
+  width: 249px;
+  left: 595px;
+  top: 184px;
+  border-radius: 0px;
+  padding: 15px;
+  color: black;
+  border-color: 8px;
+  margin-bottom: 20px;
+  font-family: Gothic A1;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  }
+
+.facebook {
+  position: absolute;
+  height: 37px;
+  width: 249px;
+  left: 595px;
+  top: 229px;
+  border-radius: 0px;
+  padding: 15px;
+  color: white;
+  background:  #1A538A;
+  border-color: 8px;
+  margin-bottom: 20px;
+  font-family: Gothic A1;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.firstinput {
+  position: absolute;
+  width: 252px;
+  height: 29px;
+  left: 380px;
+  top: 285px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.secondinput {
+  position: absolute;
+  width: 252px;
+  height: 29px;
+  left: 380px;
+  top: 324px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.thirdinput {
+  position: absolute;
+  width: 252px;
+  height: 29px;
+  left: 380px;
+  top: 367px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.fourthinput {
+  position: absolute;
+  width: 252px;
+  height: 29px;
+  left: 380px;
+  top: 411px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.fifthinput {
+  position: absolute;
+  width: 252px;
+  height: 29px;
+  left: 380px;
+  top: 456px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.tips {
+  position: absolute;
+  width: 295px;
+  height: 45px;
+  left: 556px;
+  top: 650px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.form-check {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  left: 531px;
+  top: 650px;
+}
+
+.btn {
+  position: absolute;
+  background: #36A362;
+  height: 53px;
+  width: 378px;
+  left: 522px;
+  top: 720px;
+  border-radius: 7px;
+}
+
+.signup {
+  position: absolute;
+  width: 352px;
+  height: 30px;
+  left: 560px;
+  top: 790px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.border {
+  position: absolute;
+  width: 300px;
+  height: 0px;
+  left: 560px;
+  top: 820px;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  }
+
+.login {
+  position: absolute;
+  width: 139px;
+  height: 15px;
+  left: 614px;
+  top: 840px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.acclogin {
+  position: absolute;
+  width: 41px;
+  height: 15px;
+  left: 130px;
+  font-family: Gothic A1;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
